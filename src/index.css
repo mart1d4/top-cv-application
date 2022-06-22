@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+*::selection {
+    background: #179299;
+}
+
+
+html,
+body,
+#root,
+#root>div {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background: #EFF1F5;
+    color: #4C4F69;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}

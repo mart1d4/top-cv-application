@@ -1,0 +1,6 @@
+#CVPreview {
+    height: 90%;
+    aspect-ratio: 3 / 4;
+    background: #DCE0E8;
+    box-shadow: .2rem .2rem .4rem rgba(0, 0, 0, .3);
+}
